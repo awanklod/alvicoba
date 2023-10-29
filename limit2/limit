@@ -2,5 +2,4 @@
 ip-vmess
 ip-vless
 ip-trojan
-ip-socks5
-ip-ssh
+ip-shadowsocks
